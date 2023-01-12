@@ -1,3 +1,11 @@
+# Rook 180 -Turned
+Welcome to a mod of the the DIY 3D Printer called Rook 180!
+
+I've changed the orientation of the tabs that are used to bolt the frame together so that they reqire less support to print.
+
+![image of Rook 3D Printer](Images/Rook_180_Turned.JPG)
+
+
 # Rook 180
 Welcome to the DIY 3D Printer called Rook 180!
 
